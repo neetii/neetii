@@ -1,5 +1,14 @@
 ## Hi there 👋 I'm Neeti!
 
+Sophomore at The University of Texas at Dallas
+Pursuing a Bachelor of Science in Computer Science
+
+## More about me
+I have just begun my journey into learning how to tackle real-world problems using Machine Learning and AI as a fellow of the Break Through Tech AI year-long program. I am currently seeking internships to apply what I have learned from this program thus far and learn from industry professionals.
+
+## Past Projects
+
+
 <!--
 **neetii/neetii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
