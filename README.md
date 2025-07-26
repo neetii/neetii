@@ -11,7 +11,7 @@ Mentor(/ee): As a frontend developer of this ACM semester-long project, I design
 ## Tech Stack
 Languages: Python, Java, C++ <br>
 Data Science: NumPy, Pandas, Scikit-learn, Matplotlib <br>
-Web Dev: React.js, Node.js <br>
+Web Dev: JavaScript, Tailwind CSS, React.js, Node.js <br>
 Tools: Jupyter Notebooks, Google Colab, Git, Github <br>
 
 ## How to contact me
